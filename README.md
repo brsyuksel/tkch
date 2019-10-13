@@ -17,5 +17,5 @@ sbt test
 # running
 
 ```bash
-run
+sbt run
 ```
